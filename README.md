@@ -181,6 +181,7 @@ All analytics endpoints accept optional `?from=ISO_DATE&to=ISO_DATE` query param
 - **15 min** — Video walkthrough prep 
 
 
-## Video Link 
- 
+## Video Walkthrough
+
+[![Watch the walkthrough](https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?style=flat-square&logo=youtube)](https://youtu.be/QeVwuGEJv8I)
  
